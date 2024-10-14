@@ -9,7 +9,7 @@ body {
     color: rgb(237, 215, 12);
     background-color: rgb(169, 38, 64);
     text-align: center;
-    font-size: larger;
+    font-size: 30px;
     border: 2px solid black;
     border-radius: 20px;
     display: flex;
